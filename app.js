@@ -10,6 +10,7 @@ console.log('locals', app.locals.settings);
 // app.get('/monkey', (req, res, next) => {
 //  res.sendFile(__dirname + './public/monkey.html')
 // });
+
 const names = ['bill', 'moe', 'joe']
 app.get('/', (req, res, next) => {
   res.render('index', {

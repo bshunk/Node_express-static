@@ -1,0 +1,26 @@
+{
+  "name": "Node_express-static",
+  "version": "1.0.0",
+  "description": "# Express Static",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.1",
+    "nodemon": "^1.12.1",
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshunk/Node_express-static.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bshunk/Node_express-static/issues"
+  },
+  "homepage": "https://github.com/bshunk/Node_express-static#readme"
+}
